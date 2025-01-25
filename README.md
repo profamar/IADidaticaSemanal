@@ -1,4 +1,7 @@
-# IADidaticaSemanal  
+# Série Semanal: Didática em Inteligência Artificial
+
+Este projeto apresenta uma série didática estruturada para o aprendizado progressivo de Inteligência Artificial (IA) em 8 semanas. Cada semana aborda temas específicos que constroem uma base robusta, exploram aplicações práticas e discutem tendências emergentes no campo da IA. A sequência de conteúdo é cuidadosamente organizada para promover uma compreensão completa e aprimorar habilidades aplicáveis na área.
+
 **Proposta de Publicação Semanal: Série Didática sobre Inteligência Artificial**  
 
 Este repositório reúne conteúdos organizados em uma sequência didática para promover o aprendizado progressivo em **Inteligência Artificial (IA)** ao longo de **8 semanas**. Os temas abordados foram escolhidos para construir uma base sólida, explorar aplicações práticas e discutir tendências avançadas na área.  
