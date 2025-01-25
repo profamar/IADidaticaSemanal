@@ -1,0 +1,1 @@
+# AprendendoIA-S-rieSemanal
