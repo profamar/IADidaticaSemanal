@@ -4,20 +4,83 @@ Este projeto apresenta uma série didática cuidadosamente estruturada para o ap
 
 ## Estrutura dos Temas:
 
-Semana 1: Introdução à Inteligência Artificial e Seus Fundamentos
-Semana 2: Machine Learning – A Base da IA Moderna
-Semana 3: Algoritmos Clássicos de Machine Learning
-Semana 4: Deep Learning – A Revolução da IA
-Semana 5: Processamento de Linguagem Natural (PLN)
-Semana 6: Visão Computacional – Como a IA “vê” o Mundo
-Semana 7: IA Aplicada em Negócios e Indústria
-Semana 8: Ética e Futuro da Inteligência Artificial
+## Estrutura dos Temas  
+
+### **Semana 1: Introdução à Inteligência Artificial e Seus Fundamentos**  
+- **Tópicos abordados:**  
+  - O que é IA? Diferença entre IA, Machine Learning (ML) e Deep Learning (DL).  
+  - Principais áreas da IA: visão computacional, processamento de linguagem natural (PLN), robótica, entre outras.  
+  - Exemplos práticos: Assistentes virtuais (Alexa, Google Assistant), recomendações em streaming (Netflix, Spotify).  
+- **Objetivo:** Fornecer um panorama geral, explicando os fundamentos de forma acessível.  
 
 ---  
-Cada etapa foi desenvolvida com foco em promover o aprendizado progressivo, permitindo que os participantes avancem de forma consistente, conectando teoria, prática e impacto do uso da IA no mundo real.
 
-Publicação e Referências:
+### **Semana 2: Machine Learning – A Base da IA Moderna**  
+- **Tópicos abordados:**  
+  - O que é Machine Learning? Como funciona?  
+  - Tipos de ML: supervisionado, não supervisionado e por reforço.  
+  - Algoritmos populares: regressão linear, k-means, redes neurais básicas.  
+  - Exemplos práticos: Previsão de vendas e segmentação de clientes.  
+- **Objetivo:** Introduzir conceitos básicos de ML e aplicações práticas.  
+
+---  
+
+### **Semana 3: Algoritmos Clássicos de Machine Learning**  
+- **Tópicos abordados:**  
+  - Regressão logística, árvores de decisão, Support Vector Machines (SVM).  
+  - Vantagens, limitações e quando usar cada algoritmo.  
+  - Exemplos práticos: Diagnóstico médico e detecção de fraudes financeiras.  
+- **Objetivo:** Explorar algoritmos clássicos que ainda têm relevância.  
+
+---  
+
+### **Semana 4: Deep Learning – A Revolução da IA**  
+- **Tópicos abordados:**  
+  - O que é Deep Learning? Diferença entre ML e DL.  
+  - Estrutura de redes neurais: camadas, neurônios, funções de ativação.  
+  - Exemplos práticos: Reconhecimento facial, tradução automática de idiomas.  
+- **Objetivo:** Explicar como redes profundas permitem resolver problemas complexos.  
+
+---  
+
+### **Semana 5: Processamento de Linguagem Natural (PLN)**  
+- **Tópicos abordados:**  
+  - Introdução ao PLN e suas aplicações.  
+  - Técnicas básicas: tokenização, stemming, lematização.  
+  - Exemplos práticos: Análise de sentimentos em redes sociais, chatbots inteligentes.  
+- **Objetivo:** Explorar como a IA entende e processa a linguagem humana.  
+
+---  
+
+### **Semana 6: Visão Computacional – Como a IA “Vê” o Mundo**  
+- **Tópicos abordados:**  
+  - Introdução à visão computacional.  
+  - Técnicas: detecção de bordas, segmentação de imagem, reconhecimento de objetos.  
+  - Exemplos práticos: Sistemas de segurança com câmeras inteligentes, análise de imagens médicas.  
+- **Objetivo:** Demonstrar como a IA processa e interpreta dados visuais.  
+
+---  
+
+### **Semana 7: IA Aplicada em Negócios e Indústria**  
+- **Tópicos abordados:**  
+  - Como a IA está transformando setores como saúde, finanças, logística e varejo.  
+  - Exemplos de automação de processos, personalização de ofertas e previsão de demanda.  
+  - Cases de sucesso: Amazon, Tesla, Alibaba.  
+- **Objetivo:** Mostrar como a IA agrega valor e torna empresas mais competitivas.  
+
+---  
+
+### **Semana 8: Ética e Futuro da Inteligência Artificial**  
+- **Tópicos abordados:**  
+  - Preocupações éticas: privacidade, viés algorítmico, impacto no mercado de trabalho.  
+  - Regulações e boas práticas para o uso responsável da IA.  
+  - Tendências futuras: IA generativa, computação quântica, IA autônoma.  
+- **Objetivo:** Refletir sobre o impacto da IA na sociedade e seu potencial futuro.  
+
+
+## Publicação e Referências:
 Local: Fórum de Artigos da Comunidade DIO
+
 ## Contribuições  
 Este repositório está aberto para contribuições! Sinta-se à vontade para abrir issues, sugerir melhorias ou submeter pull requests com novas ideias e recursos relacionados aos temas abordados.  
 
