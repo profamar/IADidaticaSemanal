@@ -86,4 +86,6 @@ Este repositório está aberto para contribuições! Sinta-se à vontade para ab
 Este projeto está licenciado sob a [MIT License](LICENSE).  
 
 ---  
-**🚀 Vamos juntos explorar o fascinante universo da Inteligência Artificial!**  
+📧 Contato Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
