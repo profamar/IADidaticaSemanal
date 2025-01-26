@@ -40,6 +40,7 @@ Este projeto apresenta uma série didática cuidadosamente estruturada para o ap
 - **Objetivo:** Explicar como redes profundas permitem resolver problemas complexos.  
 
 ---  
+![Exemplo de imagem](https://github.com/profamar/IADidaticaSemanal/blob/master/Imagem/Serie_Semanal_Didatica_em_Inteligencia_Artificial.png)
 
 ### **Semana 5: Processamento de Linguagem Natural (PLN)**  
 - **Tópicos abordados:**  
@@ -87,7 +88,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---  
 📧 Contato Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
-
-![Exemplo de imagem](https://github.com/profamar/IADidaticaSemanal/blob/master/Imagem/Serie_Semanal_Didatica_em_Inteligencia_Artificial.png)
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
