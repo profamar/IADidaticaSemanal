@@ -40,6 +40,7 @@ Este projeto apresenta uma série didática cuidadosamente estruturada para o ap
 - **Objetivo:** Explicar como redes profundas permitem resolver problemas complexos.  
 
 ---  
+![Exemplo de imagem](https://github.com/profamar/IADidaticaSemanal/blob/master/Imagem/Serie_Semanal_Didatica_em_Inteligencia_Artificial.png)
 
 ### **Semana 5: Processamento de Linguagem Natural (PLN)**  
 - **Tópicos abordados:**  
@@ -76,8 +77,34 @@ Este projeto apresenta uma série didática cuidadosamente estruturada para o ap
 - **Objetivo:** Refletir sobre o impacto da IA na sociedade e seu potencial futuro.  
 
 
-## Publicação e Referências:
-Local: Fórum de Artigos da Comunidade DIO
+## 📍Onde acompanhar a Publicação e Referências:
+Local: Aprofundado no Fórum de Artigos da Comunidade DIO e Compartilhado no LinkedIn.
+
+# 📁 Estrutura do Repositório
+
+├── docs/
+│   ├── week-1-outline.md         # Estrutura da primeira semana
+│   ├── week-2-outline.md         # Estrutura da segunda semana
+│   ├── week-3-outline.md         # Estrutura da terceira semana
+│   ├── week-4-outline.md         # Estrutura da quarta semana
+│   ├── week-5-outline.md         # Estrutura da quinta semana
+│   ├── week-6-outline.md         # Estrutura da sexta semana
+│   ├── week-7-outline.md         # Estrutura da sétima semana
+│   ├── week-8-outline.md         # Estrutura da oitava semana
+│   └── project-template.md       # Template principal do projeto
+├── examples/
+│   ├── basic-ml-model.md         # Exemplo de um modelo de ML básico
+│   ├── sample-automation.md      # Exemplo de automação para um projeto
+│   └── real-world-application.md # Aplicação prática de IA no mundo real
+├── scripts/
+│   ├── data-preprocessing/       # Scripts para pré-processamento de dados
+│   └── utils/                    # Scripts úteis e helpers
+├── resources/
+│   ├── datasets/                 # Conjuntos de dados para as semanas
+│   ├── reading-materials.md      # Materiais de leitura recomendados
+│   └── tools-and-libraries.md    # Ferramentas e bibliotecas recomendadas
+└── README.md                     # Descrição geral do projeto
+
 
 ## Contribuições  
 Este repositório está aberto para contribuições! Sinta-se à vontade para abrir issues, sugerir melhorias ou submeter pull requests com novas ideias e recursos relacionados aos temas abordados.  
