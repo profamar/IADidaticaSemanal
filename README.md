@@ -1,6 +1,7 @@
 # Série Semanal: Didática em Inteligência Artificial
 
 Este projeto apresenta uma série didática cuidadosamente estruturada para o aprendizado progressivo de Inteligência Artificial (IA) ao longo de 8 semanas. O programa foi concebido para construir uma base sólida, explorar aplicações práticas e abordar tendências emergentes no campo da IA. A sequência de conteúdos foi planejada para garantir uma compreensão abrangente e desenvolver habilidades diretamente aplicáveis no setor.
+
 ---  
 ![Exemplo de imagem](https://github.com/profamar/IADidaticaSemanal/blob/master/Imagem/Serie_Semanal_Didatica_em_Inteligencia_Artificial.png)
 
